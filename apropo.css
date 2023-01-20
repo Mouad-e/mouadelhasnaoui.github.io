@@ -1,0 +1,59 @@
+body{
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-size: 1520px;
+}
+.logo{
+    position: relative;
+    left: 20px;
+}
+#fp{
+    margin-top: 809px;
+
+}
+#soc{
+    position: absolute;
+    top: 1475px;
+    left: 1300px;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding: 15%;
+    font-size: 150px;
+    font-family: 'Asap', sans-serif;
+}
+.section{
+    background-color: white;
+    width: 1519px;
+    height:500px;
+    position: absolute;
+    top:800px;
+    text-align: center; 
+}
+#behinde{
+    padding-top: 30px;
+    padding-left: 400px;
+    padding-right: 400px;
+    text-align: justify ;
+    font-size: 21px;
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
+#under{ 
+    padding-top: 30px;
+    padding-left: 238px;
+    padding-right: 249px;
+    text-align: justify;
+    font-size: 21px;
+    position: relative;
+    right: 47px;
+    bottom: 3px;
+}
+.round{
+    display: inline-block;
+    position: absolute;
+    right: 1050px;
+    top: 70px;
+}
